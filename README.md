@@ -1,2 +1,13 @@
 # index.html
 Feliz Tercer aniversario Dafne ❤️
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="refresh" content="0; url=https://tu-link-aqui.com" />
+  <title>Redirigiendo...</title>
+</head>
+<body>
+  <p>Redirigiendo...</p>
+</body>
+</html>
